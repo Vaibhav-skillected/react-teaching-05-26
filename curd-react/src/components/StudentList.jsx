@@ -3,6 +3,7 @@ function StudentList({
   deleteStudent,
   editStudent
 }) {
+// 1 -> 2
 
   return (
 

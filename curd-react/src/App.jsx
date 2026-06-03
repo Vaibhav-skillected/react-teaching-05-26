@@ -22,3 +22,15 @@ create update read delete patch
 }
 
 export default App;
+
+//props drilling
+//
+
+//context api -> notice board (directly data pass)
+//context api  is a feature used to shares data globally 
+//without passing props
+
+
+
+
+

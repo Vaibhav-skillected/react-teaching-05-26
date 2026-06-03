@@ -19,7 +19,7 @@ function Navbar() {
       {" | "}
 
       <Link to="/about">
-        About
+        About 
       </Link>
 
     </nav>
